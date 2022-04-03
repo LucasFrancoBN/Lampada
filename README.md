@@ -33,7 +33,7 @@
     <h2> 📝 Sobre o Projeto </h2> 
     <p> Esse projeto foi pensado em fazer uma função simples, apenas acender lâmpada e mostrar seus diversos outros estados </p>
  
- <h3 align="center">Link do Projeto <a href="https://lucasfrancobn.github.io/Lampada/" target="_blank">CLIQUE AQUI</a></h3>
+ <h3 align="center">Link do Projeto <a href="https://lucasfrancobn.github.io/Lampada/" target="_blank" >CLIQUE AQUI</a></h3>
 
 </div>
 <br>
