@@ -2,6 +2,7 @@
 //cada variavel irá conter a imagem de uma lampada.
 //o evento trocará o display da imagem que está na tela, deixando-o com display none e em seguida trocando o display da imagem que está o botao para imagem com display flex.
 
+//Peguei cada imagem no HTML
 let lampDesligada = document.getElementById("lampDesliagada");
 let lampAcesa = document.getElementById("lampAcesa");
 let lampQuebr = document.getElementById("lampQuebr");
@@ -9,6 +10,7 @@ let lampCuriosa = document.getElementById("lampCuriosa");
 let lampDoente = document.getElementById("lampDoente");
 let lampSedutora = document.getElementById("lampSedutora");
 
+//Peguei cada botão necessário para a troca de imagem
 let bDesligar = document.getElementById("bDesligado");
 let bLigar = document.getElementById("bLigar");
 let bQuebr = document.getElementById("bQuebr");
@@ -16,6 +18,7 @@ let bCuriosa = document.getElementById("bCuriosa");
 let bDoente = document.getElementById("bDoente");
 let bSedutora = document.getElementById("bSedutora");
 
+//Cada evento de cada botão
 bDesligar.addEventListener("click", desligar);
 bLigar.addEventListener("click", ligar);
 bQuebr.addEventListener("click", lampaQubr);
@@ -23,7 +26,7 @@ bCuriosa.addEventListener("click", lampaCuriosa);
 bDoente.addEventListener("click", lampaDoente);
 bSedutora.addEventListener("click", lampaSedutora);
 
-
+//Cada função que o evento do botao recebe
 function lampaSedutora () {
     lampDesligada.style.display = "none";
     lampAcesa.style.display = "none";
