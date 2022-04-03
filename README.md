@@ -19,11 +19,11 @@
         <br><br>
        
  <h2> 📱 Responsivo </h2>
-    <img src="./images/projetoL" alt="" style="height:500px">
+    <img src="./images/projetoL.gif" alt="" style="height:500px">
         <br><br>
         
    <h2 id="GIFs"> 🎥 GIFs </h2>
-        <img src="./images/projetoL2" alt="" style="width:750px">
+        <img src="./images/projetoL2.gif" alt="" style="width:750px">
         <br><br>
 
 </div>
